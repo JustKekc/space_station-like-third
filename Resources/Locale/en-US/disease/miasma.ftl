@@ -5,3 +5,4 @@ perishable-3 = [color=red]{ CAPITALIZE(SUBJECT($target)) } {CONJUGATE-BASIC($tar
 rotting-rotting = [color=orange]{ CAPITALIZE(SUBJECT($target)) } {CONJUGATE-BE($target)} rotting![/color]
 rotting-bloated = [color=orangered]{ CAPITALIZE(SUBJECT($target)) } {CONJUGATE-BE($target)} bloated![/color]
 rotting-extremely-bloated = [color=red]{ CAPITALIZE(SUBJECT($target)) } {CONJUGATE-BE($target)} extremely bloated![/color]
+adt-rotting-embalmed = Looks like { CAPITALIZE(SUBJECT($target)) } {CONJUGATE-BE($target)} [color=#edad45]embalmed[/color].

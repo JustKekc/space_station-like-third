@@ -15,3 +15,11 @@ ent-ADTClothingBeltBrownSuspenders = кожанные подтяжки
 ent-ADTClothingBeltSecAuditorHolster = кобура аудитора СБ
     .desc = Кобура для проверяющего работу Службы Безопасности станции.
     .suffix = { "ЦК, CombatBibis, Заполненная" }
+
+ent-ADTClothingBeltMedicalBag = медицинская поясная сумка
+    .desc = Небольшая, но вместительная сумка для хранения медикаментов. Тут даже поместится планшет для бумаги!
+    .suffix = { "" }
+
+ent-ADTClothingBeltMedicalBagFilled = медицинская поясная сумка
+    .desc = Небольшая, но вместительная сумка для хранения медикаментов. Тут даже поместится планшет для бумаги!
+    .suffix = { "Заполнено" }

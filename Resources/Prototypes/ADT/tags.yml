@@ -32,7 +32,16 @@
   id: CatWearable
 
 - type: Tag
+  id: Defibrillator
+
+- type: Tag
   id: PowerCellMedium
 
 - type: Tag
   id: Fish
+
+- type: Tag
+  id: MobileDefibrillator
+  
+- type: Tag
+  id: HighVoltageDefibrillator

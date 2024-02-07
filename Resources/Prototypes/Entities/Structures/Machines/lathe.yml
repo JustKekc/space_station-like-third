@@ -271,6 +271,7 @@
       - Hemostat
       - Beaker
       - LargeBeaker
+      - ADTHighVoltageDefibrillator
       - Syringecartridge
       - CryostasisBeaker
       - SyringeCryostasis
@@ -821,6 +822,9 @@
     staticRecipes:
       - Brutepack
       - Ointment
+      - ADTReagentAnalyzer
+      - ADTAntibioticOintment
+      - ADTMedicalTourniquet
       - Gauze
       - HandLabeler
       - Defibrillator
@@ -830,10 +834,15 @@
       - DiseaseSwab
       - Beaker
       - Syringe
+      - ADTSmallSyringe
       - Implanter
       - PillCanister
+      - ADTPillCanister
+      - ADTPillPack
       - BodyBag
+      - ADTFootTag
       - ChemistryEmptyBottle01
+      - ADTPlasticBottle
       - VehicleWheelchairFolded
       - RollerBedSpawnFolded
       - CheapRollerBedSpawnFolded
@@ -863,6 +872,7 @@
       - SyringeBluespace
       - Jug
       - SyringeCryostasis
+      - ADTHighVoltageDefibrillator
   - type: Machine
     board: MedicalTechFabCircuitboard
   - type: StealTarget

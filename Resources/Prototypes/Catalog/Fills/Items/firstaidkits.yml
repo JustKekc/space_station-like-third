@@ -38,6 +38,7 @@
       - id: BruteAutoInjector
         amount: 2
       - id: EmergencyMedipen
+      - id: ADTMedicalTourniquet
       - id: PillCanisterIron
 
 - type: entity
